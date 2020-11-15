@@ -134,6 +134,18 @@ canvas {
   .main .form-wrapper {
     padding: 30px 20px;
   }
+
+  .canvas-container {
+    padding: 20px;
+  }
+
+  .canvas-container canvas {
+    min-height: 200px;
+  }
+
+  .p-3 {
+    padding: 0.7rem !important;
+  }
 }
 
 @media screen and (max-width: 400px) {
