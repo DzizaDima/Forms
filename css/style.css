@@ -140,7 +140,7 @@ canvas {
   }
 
   .canvas-container canvas {
-    min-height: 200px;
+    min-height: 150px;
   }
 
   .p-3 {
