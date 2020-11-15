@@ -143,7 +143,7 @@ canvas {
     min-height: 150px;
   }
 
-  .p-3 {
+  .tab-content.p-3 {
     padding: 0.7rem !important;
   }
 }
